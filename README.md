@@ -7,4 +7,4 @@ The algorithm decides which path to take on a turn-by-turn basis.
 
 
 
-PS: Hi curious first years imt atlantique, don't cheat or do it well
+PS: Hi curious first years imt atlantique
