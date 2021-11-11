@@ -28,6 +28,7 @@ Description: PabloV2 is a greedy by high cheese density area, it has two states.
   
 --------------
 Developed in close collaboration between Jules Peignier and Aymen Kallala
+
 --------------
 
 PS: Hi curious first years imt atlantique
