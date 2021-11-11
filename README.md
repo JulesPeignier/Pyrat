@@ -21,6 +21,10 @@ Description : Greedy MR is an improved greedy
 *   -> it changes direction if its target is eaten in the meantime
 *   -> maze_map is reduced by removing dead ends that don't lead to a cheese (this greatly reduces the computation time)
 
+AI name : PabloV2 (utilisé pour le tournoi) 
+Description : PabloV2 est un greedy par zone de forte densité de fromage, il a deux états. 
+*   -> Le premier où il va dans une zone de forte densité (selon la densité et la distance au joueur)
+*   -> Le second où il se met en mode Greedy MR, le greedy amélioré
   
   
   
