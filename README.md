@@ -27,8 +27,7 @@ Description: PabloV2 is a greedy by high cheese density area, it has two states.
 *   -> The second one where he goes into Greedy MR mode, the enhanced greedy
   
 --------------
-
-Developed by Jules Peignier, Aymen Kallala
-
+Developed in close collaboration between Jules Peignier and Aymen Kallala
+--------------
 
 PS: Hi curious first years imt atlantique
